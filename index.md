@@ -22,20 +22,20 @@
 
   1.	Create the Project Folder name Spring-Roo Example and open the folder in command prompt
   2.	Type the following commands to develop simple crud applications
-      a.	To move into Spring Roo environment type the following command 
-      b.	To Create Spring Project, type the following command
-      c.	To add JPA and hibernate, type the following command
-      d.	To create model, type the following command
-      e.	To create fields in Employee model class, type the following commands
-      f.	To create Repository and its implementation, type the following command
-      g.	To create Service and its implementation, type the following command
+      *	To move into Spring Roo environment type the following command
+  b.	To Create Spring Project, type the following command
+  c.	To add JPA and hibernate, type the following command
+  d.	To create model, type the following command
+  e.	To create fields in Employee model class, type the following commands
+  f.	To create Repository and its implementation, type the following command
+  g.	To create Service and its implementation, type the following command
    For MVC based Application, type the following commands
-      h.	MVC Setup:
-      i.	View:
-      j.	Controller:
-      k.	To configure all the paths, type the following command
-      l.	To Run the Application first come out from the roo. type quit
-      m.	To the run the Application type the following command
+  h.	MVC Setup:
+  i.	View:
+  j.	Controller:
+  k.	To configure all the paths, type the following command
+  l.	To Run the Application first come out from the roo. type quit
+  m.	To the run the Application type the following command
  
 
 ### OUTPUT
