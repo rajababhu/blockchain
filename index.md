@@ -1,33 +1,55 @@
-## What is Blockchain?
+## Spring Roo
+### Introduction
+  
+  In the recent years there are lot of frameworks and tools are used in Project Development in which Spring is one of the best frameworks to develop web application flexibly. In the family of Spring, Spring Boot is one best tool for developer because instead of spending the time in configurations, packaging, building, the developer will concentrate only on development remaining Spring boot will take care of that. In this way, one more tool introduced which is know as Spring Roo. 
+  
+  Spring Roo is a lightning development tool to build web applications and it allows to build high-quality, high-performance, lock-in-free enterprise applications in just minutes. Spring Roo is a command-based development tool in which no need to write a single line of code to develop CRUD application. To create simple CRUD application, it requires only 13 commands.
 
-A Blockchain is a constantly growing ledger that keeps a permanent record of all the transactions that have taken place, in a secure, chronological, and immutable way.
 
-Let's breakdown the definition,
+### Environment Setup
 
-Ledger: It is a file that is constantly growing.
-Permanent: It means once the transaction goes inside a blockchain, you can put up it permanently in the ledger.
-Secure: Blockchain placed information in a secure way. It uses very advanced cryptography to make sure that the information is locked inside the blockchain.
-Chronological: Chronological means every transaction happens after the previous one.
-Immutable: It means as you build all the transaction onto the blockchain, this ledger can never be changed.
+  1.	Pre-Requisite	
+        a.	Java 8 ( Download link: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html )
+        b.	Apache Maven (Download Link: https://maven.apache.org/download.cgi )
+        c.	Spring-Roo (Download Link: https://projects.spring.io/spring-roo/ )
+  2.	Configurations
+        a.	Add the Java 8 bin path in environment variables
+        b.	Add the Maven path in Environment variables
+        c.	Add the Spring-Roo bin Path in Environment Variables.
 
-### Who uses the blockchain?
 
-Blockchain technology can be integrated into multiple areas. Today, the primary use of blockchains is as a distributed ledger for cryptocurrencies. It shows great promise across a wide range of business applications like Banking, Finance, Government, Healthcare, Insurance, Media and Entertainment, Retail, etc.
+### Demonstration
 
-### Need of Blockchain
+  1.	Create the Project Folder name Spring-Roo Example and open the folder in command prompt
+  2.	Type the following commands to develop simple crud applications
+      1.	To move into Spring Roo environment type the following command 
+      2.	To Create Spring Project, type the following command
+      3.	To add JPA and hibernate, type the following command
+      4.	To create model, type the following command
+      5.	To create fields in Employee model class, type the following commands
+      6.	To create Repository and its implementation, type the following command
+      7.	To create Service and its implementation, type the following command
+   For MVC based Application, type the following commands
+      8.	MVC Setup:
+      9.	View:
+      10.	Controller:
+      11.	To configure all the paths, type the following command
+      12.	To Run the Application first come out from the roo. type quit
+      13.	To the run the Application type the following command
+ 
 
-Blockchain technology has become popular because of the following.
+### OUTPUT
+  1. Home Page:
+  2. Employee Menu:
+  3. Creating Employee:
+  4. Edit Employee:
+  5. Employee List
+ 
 
-Time reduction: In the financial industry, blockchain can allowing the quicker settlement of trades. It does not take a lengthy process for verification, settlement, and clearance because a single version of agreed-upon data is available between all stack holders.
-
-Unchangeable transactions: Blockchain register transactions in a chronological order which certifies the unalterability of all operations. It means when any new block has been added to the chain of ledgers, it cannot be removed or modified.
-
-Reliability: Blockchain certifies and verifies the identities of each interested parties. This removes double records, reducing rates and accelerates transactions.
-
-Security: Blockchain uses very advanced cryptography to make sure that the information is locked inside the blockchain. It uses Distributed Ledger Technology where each party holds a copy of the original chain, so the system remains operative, even the large number of other nodes fall.
-
-Collaboration: It allows each party to transact directly with each other without requiring a third-party intermediary.
-
-Decentralized: It is decentralized because there is no central authority supervising anything. There are standards rules on how every node exchanges the blockchain information. This method ensures that all transactions are validated, and all valid transactions are added one by one.
+From the Above Screenshot, 
+1.	Deleting individual record or more and one records is done
+2.	Editing Records is also possible
+3.	Exporting to different formats like pdf, csv and xls.
+4.	Searching is also implemented
 
 
