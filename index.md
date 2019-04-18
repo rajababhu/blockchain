@@ -1,37 +1,33 @@
-## Welcome to Leafros
+## What is Blockchain?
 
-You can use the [editor on GitHub](https://github.com/rajababhu/blockchain/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A Blockchain is a constantly growing ledger that keeps a permanent record of all the transactions that have taken place, in a secure, chronological, and immutable way.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let's breakdown the definition,
 
-### Markdown
+Ledger: It is a file that is constantly growing.
+Permanent: It means once the transaction goes inside a blockchain, you can put up it permanently in the ledger.
+Secure: Blockchain placed information in a secure way. It uses very advanced cryptography to make sure that the information is locked inside the blockchain.
+Chronological: Chronological means every transaction happens after the previous one.
+Immutable: It means as you build all the transaction onto the blockchain, this ledger can never be changed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who uses the blockchain?
 
-```markdown
-Syntax highlighted code block
+Blockchain technology can be integrated into multiple areas. Today, the primary use of blockchains is as a distributed ledger for cryptocurrencies. It shows great promise across a wide range of business applications like Banking, Finance, Government, Healthcare, Insurance, Media and Entertainment, Retail, etc.
 
-# Header 1
-## Header 2
-### Header 3
+### Need of Blockchain
 
-- Bulleted
-- List
+Blockchain technology has become popular because of the following.
 
-1. Numbered
-2. List
+Time reduction: In the financial industry, blockchain can allowing the quicker settlement of trades. It does not take a lengthy process for verification, settlement, and clearance because a single version of agreed-upon data is available between all stack holders.
 
-**Bold** and _Italic_ and `Code` text
+Unchangeable transactions: Blockchain register transactions in a chronological order which certifies the unalterability of all operations. It means when any new block has been added to the chain of ledgers, it cannot be removed or modified.
 
-[Link](url) and ![Image](src)
-```
+Reliability: Blockchain certifies and verifies the identities of each interested parties. This removes double records, reducing rates and accelerates transactions.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Security: Blockchain uses very advanced cryptography to make sure that the information is locked inside the blockchain. It uses Distributed Ledger Technology where each party holds a copy of the original chain, so the system remains operative, even the large number of other nodes fall.
 
-### Jekyll Themes
+Collaboration: It allows each party to transact directly with each other without requiring a third-party intermediary.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajababhu/blockchain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Decentralized: It is decentralized because there is no central authority supervising anything. There are standards rules on how every node exchanges the blockchain information. This method ensures that all transactions are validated, and all valid transactions are added one by one.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
